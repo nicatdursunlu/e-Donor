@@ -114,5 +114,6 @@
   "req": "is required",
   "agree": "You must agree to our Terms and Conditions to continue",
 
-  "reset": "Reset"
+  "reset": "Reset",
+  "send_message": "Send message"
 }

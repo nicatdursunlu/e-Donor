@@ -114,5 +114,6 @@
   "req": "tələb olunur",
   "agree": "Davam etmək üçün istifadəçi şərtləri ilə razılaşmalısınız.",
 
-  "reset": "Sıfırla"
+  "reset": "Sıfırla",
+  "send_message": "Mesaj göndər"
 }

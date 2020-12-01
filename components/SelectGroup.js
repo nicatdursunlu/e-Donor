@@ -78,6 +78,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     paddingHorizontal: 15,
     justifyContent: "space-between",
+    zIndex: 999,
   },
   group: {
     top: 40,
